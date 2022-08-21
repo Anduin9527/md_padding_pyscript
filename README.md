@@ -12,8 +12,8 @@
 
 ## 食用方法
 
-1. 先安装[md-padding](https://github.com/harttle/md-padding)
-2. 使用`python3 lint.py -a dir_path` 更新该目录下所有的文件
-3. 使用`python3 lint.py -s dir_path` 更新该目录下最新的文件
-4. 使用`python3 lint.py file_path` 更新该文件
+1. 先安装 [md-padding](https://github.com/harttle/md-padding)
+2. 使用 `python3 lint.py -a dir_path` 更新该目录下所有的文件
+3. 使用 `python3 lint.py -s dir_path` 更新该目录下最新的文件
+4. 使用 `python3 lint.py file_path` 更新该文件
 
