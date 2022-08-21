@@ -1,3 +1,4 @@
+## md_padding 作者已修复，本项目归档
 # md_padding_pyscript
 
 一个 Python 脚本，目的是解决我在使用 [md-padding](https://github.com/harttle/md-padding) 对 markdown 中英文混排时的一些问题。
